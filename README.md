@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="Bulfast Logo" width="200">
+  <img src="logo.png" alt="Bulfast Logo" width="190">
 </p>
 
 <h1 align="center">Bulfast: Light and Efficient Production-Ready Image Retrieval System</h1>
